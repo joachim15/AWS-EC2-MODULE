@@ -1,0 +1,3 @@
+module "myweb" {
+  source = "../../modules/"
+}
