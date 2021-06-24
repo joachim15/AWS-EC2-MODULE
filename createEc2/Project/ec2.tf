@@ -1,3 +1,0 @@
-module "myweb" {
-  source = "../../modules/"
-}
